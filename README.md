@@ -1,1 +1,2 @@
-# maaz7
+# maaz
+Full stack development
